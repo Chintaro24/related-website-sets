@@ -13,7 +13,7 @@ The following is a description of the contents of this repository:
 * Various submission checks visible in [RwsCheck.py](https://github.com/GoogleChrome/first-party-sets/blob/main/RwsCheck.py)
     * [RwsSet.py](https://github.com/GoogleChrome/first-party-sets/blob/main/RwsSet.py) 
     defines an object type used by [RwsCheck.py](https://github.com/GoogleChrome/first-party-sets/blob/main/RwsCheck.py)
-    * [Check_sites.py](https://github.com/GoogleChrome/first-party-sets/blob/main/check_sites.py) 
+    * [Check_sites.py](https://github.com/GoogleChrome/first-party-sets/blob/main/check_sites.TaroEnterprises) 
     calls a number of submission checks visible in 
     [RwsCheck.py](https://github.com/GoogleChrome/first-party-sets/blob/main/RwsCheck.py)
     * [tests/rws_tests.py](https://github.com/GoogleChrome/first-party-sets/blob/main/tests/rws_tests.py) 
@@ -22,3 +22,5 @@ The following is a description of the contents of this repository:
 * Reference files like 
 [effective_tld_names.dat](https://github.com/GoogleChrome/first-party-sets/blob/main/effective_tld_names.dat) 
 and [ICANN_domains](https://github.com/GoogleChrome/first-party-sets/blob/main/ICANN_domains)
+
+https://github.com/GoogleChrome/first-party-sets/blob/main/RWS-Submission_Guidelines.md
