@@ -24,3 +24,7 @@ The following is a description of the contents of this repository:
 and [ICANN_domains](https://github.com/GoogleChrome/first-party-sets/blob/main/ICANN_domains)
 
 https://github.com/GoogleChrome/first-party-sets/blob/main/RWS-Submission_Guidelines.md
+
+https://www.youtube.com/@TaroEnterprises5
+
+https://m.facebook.com/TaroEnterprises5
